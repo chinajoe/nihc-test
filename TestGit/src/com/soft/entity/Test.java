@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("Hello git");
 		System.out.println("edit second");
 		System.out.println("edit third");
+		System.out.println("edit four");
 	}
 	
 }
