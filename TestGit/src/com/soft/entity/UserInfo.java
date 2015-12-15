@@ -22,6 +22,8 @@ public class UserInfo {
 		this.name = name;
 	}
 	
-	
+	public void add(){
+		System.out.println("wo qu");
+	}
 	
 }
