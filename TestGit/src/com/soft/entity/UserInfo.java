@@ -30,4 +30,8 @@ public class UserInfo {
 		System.out.println("wo qu");
 	}
 	
+	public void ca(){
+		System.out.println("go on");
+	}
+	
 }
