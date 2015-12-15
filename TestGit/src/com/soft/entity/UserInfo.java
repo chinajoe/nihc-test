@@ -22,6 +22,8 @@ public class UserInfo {
 		this.name = name;
 	}
 	
-	
+	public void kk(){
+		System.out.println("ni qu");
+	}
 	
 }
