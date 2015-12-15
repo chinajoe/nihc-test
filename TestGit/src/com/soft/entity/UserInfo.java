@@ -26,4 +26,8 @@ public class UserInfo {
 		System.out.println("ni qu");
 	}
 	
+	public void add(){
+		System.out.println("wo qu");
+	}
+	
 }
