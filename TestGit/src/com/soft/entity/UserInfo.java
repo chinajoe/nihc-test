@@ -34,4 +34,7 @@ public class UserInfo {
 		System.out.println("go on");
 	}
 	
+	public void jj(){
+		System.out.println("go on 2");
+	}
 }
