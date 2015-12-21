@@ -16,10 +16,6 @@ public class UserInfo {
 	
 	private Date createdDate;
 
-	//test unchaged
-	private int ff;
-	private long kk;
-	
 	public long getId() {
 		return id;
 	}
