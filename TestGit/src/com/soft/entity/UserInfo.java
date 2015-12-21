@@ -1,10 +1,20 @@
 package com.soft.entity;
 
+import java.sql.Date;
+
+/**
+ * user µÃÂ
+ * 
+ * @author JOE
+ *
+ */
 public class UserInfo {
 
 	private long id;
 	
 	private String name;
+	
+	private Date createdDate;
 
 	public long getId() {
 		return id;
@@ -12,6 +22,14 @@ public class UserInfo {
 
 	public void setId(long id) {
 		this.id = id;
+	}
+
+	public Date getCreatedDate() {
+		return createdDate;
+	}
+
+	public void setCreatedDate(Date createdDate) {
+		this.createdDate = createdDate;
 	}
 
 	public String getName() {
