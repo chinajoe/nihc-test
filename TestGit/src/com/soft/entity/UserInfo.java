@@ -16,6 +16,10 @@ public class UserInfo {
 	
 	private Date createdDate;
 
+	//test unchaged
+	private int ff;
+	private long kk;
+	
 	public long getId() {
 		return id;
 	}
@@ -54,5 +58,8 @@ public class UserInfo {
 	
 	public void jj(){
 		System.out.println("go on 2");
+	}
+	public void test(){
+		System.out.println("test branch");
 	}
 }
