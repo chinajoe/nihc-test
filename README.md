@@ -7,22 +7,22 @@
 
 > **极力推荐使用的客户端：**
 
-* ![logo](./static/img/client/win.svg ':size=20x20') [Clash for windows](clash) ![logo](./static/img/hot.gif ':size=12x20') 
-* ![logo](./static/img/client/apple.svg ':size=20x20') [ClashX](clashx) ![logo](./static/img/hot.gif ':size=12x20')
+* [Clash for windows](clash) ![logo](./static/img/hot.gif ':size=12x20') 
+* [ClashX](clashx) ![logo](./static/img/hot.gif ':size=12x20')
 
-* ![logo](./static/img/client/ios.svg ':size=20x20') [Quantumult](quantumult) ![logo](./static/img/hot.gif ':size=12x20')
+* [Quantumult](quantumult) ![logo](./static/img/hot.gif ':size=12x20')
 
-* ![logo](./static/img/client/android.svg ':size=20x20') [Surfboard](surfboard) ![logo](./static/img/hot.gif ':size=12x20') 
+* [Surfboard](surfboard) ![logo](./static/img/hot.gif ':size=12x20') 
 
 > **推荐使用的客户端：**
 
-* ![logo](./static/img/client/win.svg ':size=20x20') [V2rayN](v2rayN) 
+* [V2rayN](v2rayN) 
 
-* ![logo](./static/img/client/apple.svg ':size=20x20') [V2RayU](v2rayu) 
+* [V2RayU](v2rayu) 
 
-* ![logo](./static/img/client/ios.svg ':size=20x20') [Shadowrocket](shadowrocket) 
+* [Shadowrocket](shadowrocket) 
 
-* ![logo](./static/img/client/android.svg ':size=20x20') [V2RayNG](v2rayng) 
+* [V2RayNG](v2rayng) 
 
 !> **不推荐使用的客户端：**
 * Kitsunebi 
