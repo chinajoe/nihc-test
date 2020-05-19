@@ -2,17 +2,16 @@
 > 拥有了HxCloud账号后，还需要配合使用客户端，才可“世界可达”。
 
 ## 起步
-------------------
 ?> 点击相应的客户端，只需 3 步配置，即刻快速开始。
 
 > **极力推荐使用的客户端：**
 
-* [Clash for windows](clash) ![logo](./static/img/hot.gif ':size=12x20') 
-* [ClashX](clashx) ![logo](./static/img/hot.gif ':size=12x20')
+* [Clash for windows](clash)
+* [ClashX](clashx)
 
-* [Quantumult](quantumult) ![logo](./static/img/hot.gif ':size=12x20')
+* [Quantumult](quantumult)
 
-* [Surfboard](surfboard) ![logo](./static/img/hot.gif ':size=12x20') 
+* [Surfboard](surfboard)
 
 > **推荐使用的客户端：**
 
